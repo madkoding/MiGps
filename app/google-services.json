@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700082193946",
+    "project_id": "migps-39e36",
+    "storage_bucket": "migps-39e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700082193946:android:0195db684bbdeae48673a3",
+        "android_client_info": {
+          "package_name": "com.example.migps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATYEIQJ17iu6O1vLsjcgwMKmks7hW1w2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
